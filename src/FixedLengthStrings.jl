@@ -7,8 +7,6 @@ export @tiny_string, @short_string, @mid_string, @long_string, @text_string
 
 using StaticArrays
 
-using Revise
-
 using Compat
 import Compat.String
 
