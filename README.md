@@ -4,7 +4,7 @@
 
 [![codecov.io](http://codecov.io/github/djsegal/FixedLengthStrings.jl/coverage.svg?branch=master)](http://codecov.io/github/djsegal/FixedLengthStrings.jl?branch=master)
 
-# Docs
+# Usage
 
 Extracted from tests:
 
